@@ -1,2 +1,2 @@
 # Measuring Sentiment
-This repository showcases how to use Machine Learning to make accurate predictions about the future prices of the cryptocurrency Ethereum. 
+This repository showcases how to use Machine Learning to make accurate predictions about the future prices of the cryptocurrency. The Jupyter Notebook walks through using the previous price and sentiment data to predict future Etheruem Prices. This process can be used for any cryptocurrency, however, and files that have sentiment data for other cryptocurrencies are also included in this repository. 
